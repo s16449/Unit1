@@ -1,0 +1,4 @@
+Dzień dobry,
+Myślę, że chyba wszystko udało mi się zaimplementować, co było w wymaganiach.
+Jeśli chodzi o dash, to jest ustawiony na czas 0,2 sekundy i ochłonięcie na 2. Znikające platformy ustawione są na 1 sekundę, ale chyba lepiej by było nie niszczyć tych platform tylko zmieniać ich aktywność, i ewentualnie wykorzystywać ponownie w innym miejscu.
+Platforma poruszająca się lewo/prawo i góra/dół mają dodany skrypt z tym przenoszeniem gracza, bez "parentowania". Gdzie niegdzie użyłem platform trampolin, na zasadzie - jak platformy znikające znikną to czasami trudno będzie się gdzieś poźniej dostać, a tak to ludzik poskacze poskacze i doskoczy. Na początku można myślę użyć takiego rozwiązania, później już nie będzie takich wspomagaczy. Dodatkowo przeszkadzajki w postaci czaszki, lub kolca.
